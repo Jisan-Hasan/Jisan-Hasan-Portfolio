@@ -14,7 +14,7 @@ const Home = () => {
                 </h2>
                 <p className="text-[#8892b0] py-4 max-w-[700px]">
                     I'm a full stack web developer specializing in react.js. The
-                    main focus is on front-end. Current, I'm focused on learning
+                    main focus is on front-end. Currently, I'm focused on learning
                     responsive full-stack web application.
                 </p>
                 <div>
